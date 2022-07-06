@@ -4,7 +4,7 @@
 ### Blogs
 
 [What is Transformer-Medium](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
-
+[Understand and Implement Vision Transformer with TensorFlow 2.0](https://towardsdatascience.com/understand-and-implement-vision-transformer-with-tensorflow-2-0-f5435769093)
 
 
 
